@@ -1,0 +1,17 @@
+body{
+	background: linear-gradient(to right, blue, red);
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 1em;
+}
+
+h1{
+	letter-spacing: 1em;
+	font-weight: 700;
+	font-size: 2.5em;
+}
+
+h3{
+	letter-spacing: normal;
+	text-transform: none;
+}
